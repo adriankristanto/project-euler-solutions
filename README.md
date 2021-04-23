@@ -12,3 +12,4 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 | No. | Title | Explanation |
 | --- | --- | --- | 
 | 1 | Multiples of 3 and 5 | <a href="1-multiples-of-3-and-5.ipynb">Link</a> |
+| 2 | Even Fibonacci numbers | <a href="2-even-fibonacci-numbers.ipynb">Link</a> |
